@@ -1,0 +1,11 @@
+# Build artifacts
+*.OBJ
+*.obj
+BUILD.LOG
+
+# Backup folder
+backup/
+
+# Claude Code
+CLAUDE.md
+.claude/
