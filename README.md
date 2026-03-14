@@ -11,13 +11,13 @@ Written in C for DOS Mode 13h (320x200, 256-color VGA). Compiled with Borland Tu
 
 ## Features
 
-- 20 shaded vector balls with 3D rotation on three axes and perspective projection.
-- 13 predefined ball formations with smooth keyframe morphing transitions.
+- Vector ball sprites with 3D rotation and perspective projection.
+- Smooth keyframe morphing transitions.
 - 3D scrolling starfield (4000 stars).
 - Palette-controlled fade-in and fade-out.
 - Z-ordered back-to-front rendering with distance-scaled sprites.
 - Double-buffered display with VSync synchronization.
-- Custom keyboard interrupt handler.
+- Interrupt 09h keyboard handler.
 
 ## Running the Demo
 
